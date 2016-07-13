@@ -1,3 +1,5 @@
+### Try the [Pure-JS rewrite](https://github.com/lharding/automataic-gardner-js) - no Java needed!
+
 The Automataic Gardner
 ======================
 
